@@ -1,0 +1,33 @@
+
+
+.orange {
+  display: grid;
+  grid-template-columns: 20% 20%;
+  background-color: orange;
+}
+
+#curse {
+  margin-top: 20px;
+  margin: 5%;
+}
+
+#mainBar {
+  grid-column: 1 / span 3;
+}
+
+#watchkit {
+  margin: 5%;
+}
+
+#watchkit h1 {
+  color: blue;
+}
+
+#swift {
+  margin: 5%;
+}
+
+#swift h1 {
+  color: blue;
+  margin-top: 20px;
+}
