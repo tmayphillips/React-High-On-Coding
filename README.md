@@ -1,3 +1,13 @@
+
+
+## High on Coding React Website
+
+This is a website demonstrating basic use of React. 
+
+<p align="center">
+  <img src="https://github.com/tmayphillips/React-High-On-Coding/blob/master/public/Index.png" width="500">
+</p>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
