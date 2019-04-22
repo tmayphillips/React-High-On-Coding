@@ -5,7 +5,7 @@
 This is a website demonstrating basic use of React. 
 
 <p align="center">
-  <img src="https://github.com/tmayphillips/React-High-On-Coding/blob/master/public/Index.png" width="500">
+  <img src="https://github.com/tmayphillips/React-High-On-Coding/blob/master/public/Index.png" width="800">
 </p>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
